@@ -1,0 +1,18 @@
+           
+Mario Sergio 
+
+Capricho = fazer o melhor na condição que voçê tem enquanto voçê nao tem condições melhores para fazer melhor ainda;
+
+code - abre o arquivo na IDE
+cls - limpa a linha 
+cd - entra
+cd.. - sai
+del - exclui
+ren - renomeia
+dir - mostra o aquivos no local
+; + ctrl - comenta a sentença
+
+math.floor = retona o menor inteiro
+math.round = retorna o inteiro mais proximo
+
+function arrow "=>" : A parte esquerda denota a entrada de uma função e a parte direita a saída dessa função.
