@@ -11,8 +11,15 @@ del - exclui
 ren - renomeia
 dir - mostra o aquivos no local
 ; + ctrl - comenta a sentença
+ctrl + shift + j - abre o console no chrome 
+var - variavel do tipo global
+let - variarel statica 
+const - constante onde nao se altera 
+contexto léxico - é o local no qual a sua variavel foi definida fisicamente no codigo 
 
 math.floor = retona o menor inteiro
 math.round = retorna o inteiro mais proximo
 
-function arrow "=>" : A parte esquerda denota a entrada de uma função e a parte direita a saída dessa função.
+function arrow "=>" : A parte esquerda denota a entrada de uma função e a parte direita a saída dessa função
+
+sem propaganda no celular - rede , avançado , dns , nome do host , dns.adguard.com 

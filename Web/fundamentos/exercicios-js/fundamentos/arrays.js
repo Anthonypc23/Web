@@ -8,7 +8,7 @@ console.log(valores)
 valores [10]= 10
 console.log(valores)
 console.log(valores.length)//retorna a quantidade do array
-valores.push( {id:3}, false, null, ' teste')
+valores.push( {id:3}, false, null, ' teste') //adiciona valores no array
 console.log(valores)
 
 

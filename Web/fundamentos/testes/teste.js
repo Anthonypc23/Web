@@ -35,8 +35,8 @@
 	 
 // }
 
-for (let index = 0; index < 30; index++) {
-    console.log(Math.floor((Math.random()*10)))
+// for (let index = 0; index < 30; index++) {
+//     console.log(Math.floor((Math.random()*10)))
 
 	 
-}
+// }
