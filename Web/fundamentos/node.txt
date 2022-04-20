@@ -19,6 +19,7 @@ contexto léxico - é o local no qual a sua variavel foi definida fisicamente no
 
 math.floor = retona o menor inteiro
 math.round = retorna o inteiro mais proximo
+Math.ceil = retona o maior inteiro
 
 function arrow "=>" : A parte esquerda denota a entrada de uma função e a parte direita a saída dessa função
 
