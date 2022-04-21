@@ -3,6 +3,8 @@ Mario Sergio
 
 Capricho = fazer o melhor na condição que voçê tem enquanto voçê nao tem condições melhores para fazer melhor ainda;
 
+
+
 code - abre o arquivo na IDE
 cls - limpa a linha 
 cd - entra
