@@ -1,0 +1,9 @@
+
+<!doctype html><html lang="en"><head><meta charset="UTF-8"/><link rel="preconnect" href="https://static.vertbet.com/" crossorigin><link rel="icon" href="https://static.vertbet.com/favicon.ico"><script>window.APP_BASE_URL = "https://static.vertbet.com/";
+    window.APP_TIMESTAMP = Date.now();</script><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,minimum-scale=1"/><meta name="theme-color" content="#121e26"/><title>VertBet</title><script defer="defer" src="https://static.vertbet.com/js/app.9d5cd4a6.js"></script><link href="https://static.vertbet.com/fonts/fira-sans-500.4517a63e.woff2" rel="preload" as="font" crossorigin=""><link href="https://static.vertbet.com/fonts/fira-sans-regular.f7297da1.woff2" rel="preload" as="font" crossorigin=""></head><body><div id="app"></div><script>// Check that service workers are supported
+  if ("serviceWorker" in navigator) {
+    // Use the window load event to keep the page load performant
+    window.addEventListener("load", () => {
+      navigator.serviceWorker.register("/service-worker.js");
+    });
+  }</script></body></html>
